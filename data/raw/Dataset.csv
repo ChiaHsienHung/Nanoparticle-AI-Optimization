@@ -1,4 +1,4 @@
-﻿ID,Glucan Type,Modification,Carrier 1,Carrier 2 (NH2),Carrier 1 Mass Ratio,Carrier 2 Mass Ratio,?]-Glucan MW,?]-Glucan / Carrier 2 Mass Ratio,Particle Size (nm),PDI,Zeta Potential (mV),Cell Uptake (%),Cell Uptake (MFI),M1 Marker (MFI),M2 Marker (MFI)
+﻿ID,Glucan Type,Modification,Carrier 1,Carrier 2 (NH2),Carrier 1 Mass Ratio,Carrier 2 Mass Ratio,Glucan MW,Glucan / Carrier 2 Mass Ratio,Particle Size (nm),PDI,Zeta Potential (mV),Cell Uptake (%),Cell Uptake (MFI),M1 Marker (MFI),M2 Marker (MFI)
 YG-SA-D1-N1-R90-10-MH-G01,Yeast Glucan,Succinic anhydride modification,D1,N1,0.9,0.1,High,0.1,,,,,,,
 YG-SA-D1-N1-R90-10-MH-G08,Yeast Glucan,Succinic anhydride modification,D1,N1,0.9,0.1,High,0.8,,,,,,,
 YG-SA-D1-N1-R90-10-MH-G20,Yeast Glucan,Succinic anhydride modification,D1,N1,0.9,0.1,High,2,,,,,,,
