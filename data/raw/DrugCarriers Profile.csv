@@ -1,0 +1,12 @@
+﻿Carrier_ID, Chemical_Name,Carrier_Name,SMILES
+D1,"1,2-distearoyl-sn-glycero-3-phosphoethanolamine-N-[Methoxy(polyethylene glycol)-2000]",DSPE-mPEG,CCCCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCCNC(=O)OCCOC)OC(=O)CCCCCCCCCCCCCCCCC.[Na+]
+D2,poly(lactic-co-glycolic acid)-methoxy poly(ethylene glycol),PLGA-mPEG,COCCOC(=O)COC(=O)C(C)O
+D3,poly(lactide)-methoxy poly(ethylene glycol),PLA-mPEG,COCCOC(=O)C(C)O
+D4,poly(ε-caprolactone)-methoxy poly(ethylene glycol),PCL-mPEG,COCCOC(=O)CCCCCO
+D5,Poloxamer 407,F-127,OCCOCC(C)OCCO
+N1,"1,2-distearoyl-sn-glycero-3-phosphoethanolamine-N-[amino(polyethylene glycol)-2000] ",DSPE-PEG-NH2,CCCCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)OCCNC(=O)OCCOCCN)OC(=O)CCCCCCCCCCCCCCCCC.N
+N2,poly(lactic-co-glycolic acid)-poly(ethylene glycol)-amine,PLGA-PEG-NH2,NCCOC(=O)COC(=O)C(C)O
+N3,poly(lactide)-methoxy poly(ethylene glycol)-amine,PLA-PEG-NH2,NCCOC(=O)C(C)O
+N4,poly(ε-caprolactone)-poly(ethylene glycol)-amine,PCL-PEG-NH2,NCCOC(=O)CCCCCO
+N5,Poloxamer 407-amine,F-127-NH2,NCCOCC(C)OCCO
+N6,"1,2-distearoyl-sn-glycero-3-phosphoethanolamine-poly(ethylene glycol)-polyethylenimine",DSPE-PEG-PEI,CCCCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)OCCNC(=O)OCCOCCN)OC(=O)CCCCCCCCCCCCCCCCC
