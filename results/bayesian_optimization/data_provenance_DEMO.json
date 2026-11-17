@@ -1,0 +1,16 @@
+{
+  "data": "..\\data\\demo\\generation_01_measurements_DEMO.csv",
+  "candidate_source": "..\\results\\generation_01_seed_42\\candidate_snapshot.csv",
+  "generation_1_selection": "..\\results\\generation_01_seed_42\\generation_01_selection.csv",
+  "feature_source": "..\\data\\processed\\formulation_features_chemical_full.csv",
+  "n_training": 20,
+  "n_candidates": 6460,
+  "n_features": 86,
+  "targets": [
+    "log1p_Uptake_norm",
+    "log1p_M1_MFI",
+    "log1p_M2_MFI"
+  ],
+  "target_transform": "natural_log1p",
+  "synthetic": true
+}

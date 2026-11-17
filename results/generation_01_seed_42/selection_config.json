@@ -1,0 +1,21 @@
+{
+  "generation": 1,
+  "seed": 42,
+  "mandatory_ids": [
+    "YG-SA-D1-N1-R90-10-MU-G08",
+    "YG-SA-D2-N2-R90-10-MU-G08",
+    "YG-SA-D3-N3-R90-10-MU-G08",
+    "YG-SA-D4-N4-R90-10-MU-G08",
+    "YG-SA-D5-N5-R90-10-MU-G08"
+  ],
+  "recommended_quotas": {
+    "YG-SA": 12,
+    "BG-SA": 1,
+    "C-SA": 1,
+    "YG-HO": 1
+  },
+  "xlsx_source": "..\\data\\raw\\Dataset.xlsx",
+  "worksheet": "Nanoparticle Formulation Table",
+  "selection_method": "quota-constrained random sampling",
+  "n_selected": 20
+}
